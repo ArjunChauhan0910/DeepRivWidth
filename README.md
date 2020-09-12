@@ -27,7 +27,7 @@ This setup currently works on **single images only**. This project has 2 functio
 
 * The graphs of training are in the ```plots``` folder.
 * The saved models/weights are stored in the ```weights``` folder.
-## Usage Instructions
+## Usage Instructions 
 
 ### Segmentation
 * Place SAR image in the ```input_imgs``` folder. 
