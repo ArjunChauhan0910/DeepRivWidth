@@ -1,10 +1,9 @@
 # DeepRivWidth
-Deep Learning based Semantic Segmentation approach for River Width Measurement in SAR Images
-
+Deep Learning based Semantic Segmentation approach for River Identification and Width Measurement in SAR Images of Coastal Karnataka
 
 # Abstract
 
-The manuscipt is currently under peer-review. The dataset description and download instruction will be updated soon.
+The manuscipt is currently under peer-review. The methodology and the results will be updated soon!
 
 # Download
 
