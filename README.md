@@ -8,7 +8,7 @@ The manuscipt is currently under peer-review. The dataset description and downlo
 
 # Download
 
-This dataset is made available for academic research purpose only, and should not be used for any commercial purpose. To download the dataset, please fill the [Google Form] (https://docs.google.com/forms/d/e/1FAIpQLSdwHC_nE7uXOqD8GMwlOm8A8-NZjsjHA3uu9J83bG-KgcJmsQ/viewform). The link to download the dataset shall be shared to your email address. 
+This dataset is made available for academic research purpose only, and should not be used for any commercial purpose. To download the dataset, please fill the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdwHC_nE7uXOqD8GMwlOm8A8-NZjsjHA3uu9J83bG-KgcJmsQ/viewform). The link to download the dataset shall be shared to your email address. 
 
 A sample SAR image along with the annotated ground truth is shown below: 
 
